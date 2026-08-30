@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -103,4 +105,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
