@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0577-employee-bonus) |
 ## String Matching
 |  |
 | ------- |
