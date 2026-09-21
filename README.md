@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
+| [3524-find-x-value-of-array-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
 | ------- |
