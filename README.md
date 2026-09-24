@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0836-rectangle-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 ## Algorithm X
 |  |
