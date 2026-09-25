@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
