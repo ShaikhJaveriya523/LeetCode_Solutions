@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [1096-brace-expansion-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
