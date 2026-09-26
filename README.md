@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
