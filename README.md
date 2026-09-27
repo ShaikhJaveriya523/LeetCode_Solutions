@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1045-customers-who-bought-all-products) |
 ## String Matching
 |  |
 | ------- |
