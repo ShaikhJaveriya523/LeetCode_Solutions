@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [1096-brace-expansion-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Database
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
