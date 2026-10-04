@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [1096-brace-expansion-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
