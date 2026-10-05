@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Algorithm X
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Quicksort
 |  |
 | ------- |
