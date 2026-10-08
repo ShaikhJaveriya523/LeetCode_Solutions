@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0836-rectangle-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0678-valid-parenthesis-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
 |  |
