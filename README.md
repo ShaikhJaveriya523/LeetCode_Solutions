@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1164-product-price-at-a-given-date) |
+| [1193-monthly-transactions-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1193-monthly-transactions-i) |
 ## String Matching
 |  |
 | ------- |
