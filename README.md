@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0065-valid-number) |
 | [0678-valid-parenthesis-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
