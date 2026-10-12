@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0836-rectangle-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
