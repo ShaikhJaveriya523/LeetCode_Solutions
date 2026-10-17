@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
