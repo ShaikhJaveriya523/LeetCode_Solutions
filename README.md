@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [1096-brace-expansion-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -451,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
