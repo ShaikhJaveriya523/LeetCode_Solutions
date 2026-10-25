@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Database
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0078-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Indexed Tree
 |  |
