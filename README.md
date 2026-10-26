@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0079-word-search) |
 | [1096-brace-expansion-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Database
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
