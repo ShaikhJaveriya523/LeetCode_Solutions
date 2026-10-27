@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
