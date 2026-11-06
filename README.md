@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 ## Segment Tree
 |  |
 | ------- |
