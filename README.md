@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0835-image-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
