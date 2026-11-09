@@ -1,18 +1,18 @@
 class Solution {
-    record Job(int at, int server) {}  // at: the time its server frees up
+    record Job(int at, int server) {}  
 
     public List<Integer> busiestServers(int k, int[] arrival, int[] load) {
-        PriorityQueue<Integer> free = new PriorityQueue<>();  // each free server, keyed by its next turn
-        for (int x = 0; x < k; x++) free.add(x);  // at request 0, server x's next turn is x
+        PriorityQueue<Integer> free = new PriorityQueue<>();  
+        for (int x = 0; x < k; x++) free.add(x); 
         PriorityQueue<Job> busy = new PriorityQueue<>(Comparator.comparingInt(Job::at));
 
         int[] handled = new int[k];
         for (int i = 0; i < arrival.length; i++) {
-            while (!busy.isEmpty() && busy.peek().at() <= arrival[i]) {  // done by the arrival
+            while (!busy.isEmpty() && busy.peek().at() <= arrival[i]) {  
                 int x = busy.poll().server();
-                free.add(i + Math.floorMod(x - i, k));  // its first turn from i on
+                free.add(i + Math.floorMod(x - i, k)); 
             }
-            if (free.isEmpty()) continue;  // none free: the request is dropped
+            if (free.isEmpty()) continue; 
             int x = free.poll() % k;
             busy.add(new Job(arrival[i] + load[i], x));
             handled[x]++;
