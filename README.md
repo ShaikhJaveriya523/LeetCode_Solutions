@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0089-gray-code) |
 | [0836-rectangle-overlap](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0089-gray-code) |
 | [1096-brace-expansion-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Database
 |  |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0089-gray-code) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Indexed Tree
 |  |
