@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
