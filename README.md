@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -581,4 +584,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
