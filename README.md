@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Trie
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ShaikhJaveriya523/LeetCode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Enumeration
 |  |
 | ------- |
